@@ -1,0 +1,11 @@
+# Node modules
+node_modules
+
+# macOS-specific files
+.DS_Store
+
+# I'll just use the unbuilt ones for now
+dist/
+
+# Various log files
+*.log
